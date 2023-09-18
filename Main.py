@@ -1,6 +1,4 @@
 # Written:  9/18/23
-# Author: Jackson Young
-# Class: CSC-1200
 
 # Functions
 squareSpaceString = "       " # Correct spacing between "|" in a line
